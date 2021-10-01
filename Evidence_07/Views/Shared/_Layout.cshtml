@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title</title>
+    <environment include="Development,Production">
+        <link href="~/libs/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <script src="~/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+        <style>
+            body {
+                padding-top: 70px;
+            }
+
+            .main {
+                min-height: calc(100vh - 115px);
+            }
+
+            th, tr, td {
+                text-align: center;
+            }
+            h1{
+                text-align:center;
+                color:darkblue;
+            }
+            
+        </style>
+    </environment>
+    @RenderSection("styles", false)
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark navbar-expand-md fixed-top shadow-sm">
+        <div class="container-fluid">
+            <span class="navbar-brand">Course & Trainee</span>
+            <div class="navbar-collapse collapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Course" asp-action="Index">Courses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Trainee" asp-action="Index">Trainees</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ms-auto">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="Logout">Logout</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="Register">Register</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="Login">Login</a>
+                        </li>
+                    }
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid main">
+        @RenderBody()
+    </div>
+    <footer class="container-fluid">
+        <p>&copy; @DateTime.Now.Year - Course and Trainee</p>
+    </footer>
+    @RenderSection("scripts", false)
+</body>
+</html>

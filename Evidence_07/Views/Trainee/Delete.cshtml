@@ -1,0 +1,57 @@
+﻿@model Trainee
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="row">
+    <div class="col-10 offset-2">
+        <h3>Delete Trainee</h3>
+        <div class="row mb-1">
+            <div class="col-12">
+                <img src="~/Uploads/@Model.Picture" class="rounded-circle" width="100" />
+            </div>
+        </div>
+        <div class="row mb-1">
+            <span class="col-2">Trainee Name: </span>
+            <div class="col-4">
+                @Model.TraineeName
+            </div>
+        </div>
+        <div class="row mb-1">
+            <span class="col-2">E-mail: </span>
+            <div class="col-4">
+                @Model.Email
+            </div>
+        </div>
+        <div class="row mb-1">
+            <span class="col-2">Training Location: </span>
+            <div class="col-4">
+                @Model.TLocation
+            </div>
+        </div>
+        <div class="row mb-1">
+            <span class="col-2">Course Name: </span>
+            <div class="col-4">
+                @Model.Course.CourseName
+            </div>
+        </div>
+        <form asp-controller="Trainee" asp-action="Delete" method="post">
+            <input type="hidden" asp-for="TraineeId" />
+            <div class="form-group row mb-1">
+                <div class="col-12">
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="row">
+        <div class="col-12 mt-2">
+            <a asp-controller="Trainee" asp-action="Index"><i class="bi bi-arrow-left">Back to list</i></a>
+        </div>
+    </div>
+</div>
+@section styles {
+    <link href="~/libs/icons/font/bootstrap-icons.css" rel="stylesheet" />
+}
+
+

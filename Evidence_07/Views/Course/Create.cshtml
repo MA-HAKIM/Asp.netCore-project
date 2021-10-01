@@ -1,0 +1,69 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="row">
+    <div class="col-10 offset-2">
+        <h2>Create Course</h2>
+        <div id="placeholder"></div>
+        <div class="clearfix" id="spinner" style="display:none;">
+            <div class="spinner-border spinner-border-sm float-end" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <form id="frm" data-ajax-url="/Course/Create"
+              data-ajax="true"
+              data-ajax-method="post" data-ajax-mode="replace"
+              data-ajax-update="#placeholder"
+              data-ajax-loading="#spinner"
+              data-ajax-success="onsuccess">
+            <div class="form-group row mb-1">
+                <label asp-for="CourseName" class="col-form-label col-2"></label>
+                <div class="col-6">
+                    <input asp-for="CourseName" class="form-control" />
+                    <span asp-validation-for="CourseName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label asp-for="Round" class="col-form-label col-2"></label>
+                <div class="col-6">
+                    <input asp-for="Round" class="form-control" />
+                    <span asp-validation-for="Round" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-1">
+
+                <div class="col-10 offset-2">
+                    <button type="submit" class="btn btn-success">Save</button>
+                </div>
+            </div>
+
+        </form>
+        <div class="row">
+            <div class="col-12 mt-2">
+                <a asp-controller="Course" asp-action="Index"><i class="bi bi-arrow-left">Back to list</i></a>
+            </div>
+        </div>
+    </div>
+</div>
+@section styles {
+    <link href="~/libs/icons/font/bootstrap-icons.css" rel="stylesheet" />
+}
+@section scripts {
+    <script src="~/libs/jquery/jquery.js"></script>
+    <script src="~/libs/validation/jquery.validate.js"></script>
+    <script src="~/libs/validation/jquery.validate.unobtrusive.js"></script>
+
+    <script src="~/libs/ajax/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function onsuccess() {
+            $("#frm").trigger('reset');
+        }
+    </script>
+}
+

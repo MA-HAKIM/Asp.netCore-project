@@ -1,0 +1,74 @@
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.deps.json
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.runtimeconfig.json
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.runtimeconfig.dev.json
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.dll
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csprojAssemblyReference.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csproj.CoreCompileInputs.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorAssemblyInfo.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorAssemblyInfo.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.AssemblyInfoInputs.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.AssemblyInfo.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorTargetAssemblyInfo.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.pdb
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.dll
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.pdb
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.Views.dll
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.Views.pdb
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.TagHelpers.input.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.TagHelpers.output.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorCoreGenerate.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorTargetAssemblyInfo.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.Views.pdb
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csproj.CopyComplete
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AjaxPartial.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Index.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Index.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Create.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Delete.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Edit.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Create.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Delete.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Online Classes\Evi-07\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Edit.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.deps.json
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.runtimeconfig.json
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.runtimeconfig.dev.json
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.dll
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.pdb
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.Views.dll
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.Views.pdb
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csprojAssemblyReference.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csproj.CoreCompileInputs.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorAssemblyInfo.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorAssemblyInfo.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.AssemblyInfoInputs.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.AssemblyInfo.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.TagHelpers.input.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.TagHelpers.output.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorCoreGenerate.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Create.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Delete.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Edit.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Index.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AjaxPartial.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Create.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Delete.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Edit.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Index.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorTargetAssemblyInfo.cache
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorTargetAssemblyInfo.cs
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.Views.pdb
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.dll
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.pdb
+E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csproj.CopyComplete
