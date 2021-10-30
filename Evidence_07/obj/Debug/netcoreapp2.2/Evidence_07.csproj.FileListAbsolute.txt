@@ -72,3 +72,44 @@ E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netc
 E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.dll
 E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.pdb
 E:\ESAD-45\Module 07 ASP.NET WEB DESIGN\Evidence_July\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csproj.CopyComplete
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.deps.json
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.runtimeconfig.json
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.runtimeconfig.dev.json
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.dll
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.pdb
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.Views.dll
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\Evidence_07.Views.pdb
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csproj.CoreCompileInputs.cache
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorAssemblyInfo.cache
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorAssemblyInfo.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.AssemblyInfoInputs.cache
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.AssemblyInfo.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.TagHelpers.input.cache
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.TagHelpers.output.cache
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorCoreGenerate.cache
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorTargetAssemblyInfo.cache
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.RazorTargetAssemblyInfo.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.Views.pdb
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.dll
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.pdb
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csproj.CopyComplete
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\appsettings.json
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\bin\Debug\netcoreapp2.2\libman.json
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.csproj.AssemblyReference.cache
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Create.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Delete.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Edit.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Course\Index.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AjaxPartial.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Create.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Delete.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Edit.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\Trainee\Index.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ESAD-45\Projects\GitHub\ASP.NETCore\Evidence_07\obj\Debug\netcoreapp2.2\Evidence_07.genruntimeconfig.cache
